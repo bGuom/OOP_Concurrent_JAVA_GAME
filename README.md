@@ -2,7 +2,7 @@
 
 Object-oriented programming concepts based JAVA game development.
 
-This is a simple game, developped using JAVA applying OOP concepts
+This is a simple game, developed using JAVA applying OOP concepts
 
 ### **Project Task **
 
